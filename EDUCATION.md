@@ -1,4 +1,3 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- Wyższa Skzkoła Bankowa we Wrocławiu / Programista w chmurze
