@@ -1,12 +1,8 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
+<code>👷 Speciality: Full-stack developer</code>
+<code>🎓 Student: Wyższa Szkoła Bankowa we Wrocławiu / Cloud Engineer</code>
+<code>💡 [Skills](SKILLS.md)</code><br />
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>🧑‍💻 Languages: Javascript, Typescript, Go</code>
+<code>📦 Tech stack: React.js, Next.js, Typescript, Redux, Node.js, Nest.js, GraphQL</code>
+<code>💬 telegram: [@iamzape](https://telegram.me/iamzape)</code>
+<code>📫 [1viktorholik@gmail.com](mailto:1viktorholik@gmail.com)</code>
